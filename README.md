@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **<a href="mailto:developersuhag@gmail.com">developersuhag@gmail.com</a>**
 
-- ⚡ Fun fact **Every day, I code for almost 14 hours!**
+- ⚡ Fun fact about me - **Every day, I code for almost 14 hours!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
