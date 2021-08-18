@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-suhag&label=Profile%20views&color=0e75b6&style=flat" alt="developer-suhag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-suhag" alt="developer-suhag" /></a> </p>
+<h4>I'd like to welcome you to my GitHub profile.
+  I am a <b>MERN stack Developer</b>. Developing websites is my passion, I devote my full time to it. It is enjoyable for me to do this.  Learning something new every day is the most enjoyable part of my job.</h3>
 
 - 🌱 I’m currently learning **JavaScript, Es6, React, Node, Firebase, TypeScript, Sass, Tailwind, Mongodb (database), Chrome devtool.**
 
