@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suhag</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer.</h3>
 
+<!-- banner  -->
+
+![](https://ibb.co/HKkWR2X)
+
+<!-- profile views  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-suhag&label=Profile%20views&color=0e75b6&style=flat" alt="developer-suhag" /> </p>
 
 <h4>I'd like to welcome you to my GitHub profile.
