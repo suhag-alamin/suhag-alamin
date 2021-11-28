@@ -9,15 +9,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-suhag&label=Profile%20views&color=0e75b6&style=flat" alt="developer-suhag" /> </p>
 
 <h4>I'd like to welcome you to my GitHub profile.
-  I am a <b>MERN stack Developer</b>. Developing websites is my passion, I devote my full time to it. It is enjoyable for me to do this.  Learning something new every day is the most enjoyable part of my job.</h3>
+  I am a <b>MERN Stack Web Developer</b>. I have worked on multiple MERN Stack projects. I devote my full attention to designing and building websites. I constantly learn.</h3>
 
-- 🌱 I’m currently learning **JavaScript, Es6, React, Node, Firebase, TypeScript, Sass, Tailwind, Mongodb (database), Chrome devtool.**
+- 🌱 I’m currently learning **Next.js, Redux, Node.js, TypeScript, Mongodb (database),**
 
 - 👯 I’m looking to collaborate **with the programming community.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/developer-suhag/](https://github.com/developer-suhag/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React.**
+- 💬 Ask me about **JavaScript, ES6, React, HTML, CSS, Bootstrap, Tailwind,**
 
 - 📫 How to reach me **<a href="mailto:developersuhag@gmail.com">developersuhag@gmail.com</a>**
 
