@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Suhag</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer.</h3>
+<h1 align="center">Hi ![](https://github.com/developer-suhag/developer-suhag/wave-hello.gif), I'm Suhag Al Amin</h1>
+<h3 align="center">MERN Stack Web Developer.</h3>
 
 <!-- banner  -->
 
-![](https://github.com/developer-suhag/developer-suhag/blob/main/banner.png)
+![](https://github.com/developer-suhag/developer-suhag/banner.png)
 
 <!-- profile views  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-suhag&label=Profile%20views&color=0e75b6&style=flat" alt="developer-suhag" /> </p>
