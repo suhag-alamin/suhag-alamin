@@ -3,7 +3,7 @@
 
 <!-- banner  -->
 
-![](https://ibb.co/HKkWR2X)
+![](https://github.com/developer-suhag/developer-suhag/blob/main/Facebook%20cover.png)
 
 <!-- profile views  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-suhag&label=Profile%20views&color=0e75b6&style=flat" alt="developer-suhag" /> </p>
