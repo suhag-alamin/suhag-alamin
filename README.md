@@ -39,38 +39,38 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318472/suhag-portfolio/languages-and-tools/html_wcoz8n.png">
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318472/suhag-portfolio/languages-and-tools/html_wcoz8n.png">
 </code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318472/suhag-portfolio/languages-and-tools/css-3_sdauiy.png">
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318472/suhag-portfolio/languages-and-tools/css-3_sdauiy.png">
 </code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318472/suhag-portfolio/languages-and-tools/js_cyzwzh.png">
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318472/suhag-portfolio/languages-and-tools/js_cyzwzh.png">
 </code>
 <code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069142/suhag-portfolio/languages-and-tools/next..js_ljsdte.png">
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670319167/suhag-portfolio/languages-and-tools/free_icon_1_rvumyd.svg">
 </code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318472/suhag-portfolio/languages-and-tools/bootstrap_n1kdnf.png">
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318472/suhag-portfolio/languages-and-tools/bootstrap_n1kdnf.png">
 </code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/material-ui_jod8eq.png"></code>
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/material-ui_jod8eq.png"></code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069142/suhag-portfolio/languages-and-tools/tailwind_jz6qt2.png">
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069142/suhag-portfolio/languages-and-tools/tailwind_jz6qt2.png">
 </code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318602/suhag-portfolio/languages-and-tools/nodejs_n573uj.png"></code>
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1670318602/suhag-portfolio/languages-and-tools/nodejs_n573uj.png"></code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069143/suhag-portfolio/languages-and-tools/express_qlbwti.png"></code>
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069143/suhag-portfolio/languages-and-tools/express_qlbwti.png"></code>
 <code>
-<img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/mongodb_ihdobo.png">
+<img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/mongodb_ihdobo.png">
 </code>
-<code><img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/firebase_fapexg.png"></code>
-<code><img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/figma_etfcm3.png"></code>
-<code><img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069143/suhag-portfolio/languages-and-tools/xd_cbxmll.png"></code>
-<code><img height="20" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/git_dn8nbt.png"></code>
+<code><img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/firebase_fapexg.png"></code>
+<code><img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/figma_etfcm3.png"></code>
+<code><img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069143/suhag-portfolio/languages-and-tools/xd_cbxmll.png"></code>
+<code><img height="50" src="https://res.cloudinary.com/dkw1ovah4/image/upload/v1642069144/suhag-portfolio/languages-and-tools/git_dn8nbt.png"></code>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-suhag&show_icons=true&locale=en&layout=compact" alt="developer-suhag" /></p>
 
