@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-suhag&label=Profile%20views&color=0e75b6&style=flat" alt="developer-suhag" /> </p>
 
 <h4>I'd like to welcome you to my GitHub profile.</h4>
- <h3>I am a <b>React Front End Developer</b> and <b>Junior MERN Stack Developer</b> with two years of experience. I have completed 90+ successful projects for both international and domestic clients, including e-commerce and enterprise web applications. My expertise lies in Javascript-based applications, especially React, Next.js, Node.js, and Vanilla JavaScript. I strive to ensure that my clients are happy with my work and that they are 100% satisfied with the finished products.</h3>
+ <p>I am a <b>React Front End Developer</b> and <b>Junior MERN Stack Developer</b> with two years of experience. I have completed 90+ successful projects for both international and domestic clients, including e-commerce and enterprise web applications. My expertise lies in Javascript-based applications, especially React, Next.js, Node.js, and Vanilla JavaScript. I strive to ensure that my clients are happy with my work and that they are 100% satisfied with the finished products.</p>
 
 - 🌱 I’m currently learning **Node.js, Express.js TypeScript, MongoDb (database)**
 
@@ -73,12 +73,14 @@
 <dl/>
 <dl/>
 <dl/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-suhag&show_icons=true&locale=en&theme=gotham" alt="developer-suhag" /><dl/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-suhag&show_icons=true&locale=en&theme=gotham" alt="developer-suhag" /><dl/></p>
 
 <dl/>
 <dl/>
 <dl/>
 <dl/>
-<p><dl/>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=developer-suhag&show_icons=true&count_private=true&locale=en&theme=gotham" alt="developer-suhag" /></p>
+<p><dl/>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-suhag&show_icons=true&count_private=true&locale=en&theme=gotham" alt="developer-suhag" /></p>
+<dl>
+<dt>
 
-<p><dl/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-suhag&theme=gotham" alt="developer-suhag" /></p>
+<div style="margin-top:20px" align="center"><dl/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-suhag&theme=gotham" alt="developer-suhag" /></div>
