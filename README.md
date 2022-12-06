@@ -26,11 +26,11 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://codepen.io/suhag_alamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suhag_alamin" height="30" width="40" /></a>
-<a href="https://twitter.com/suhag_alamain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhag_alamain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suhag-al-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhag-al-amin" height="30" width="40" /></a>
-<a href="https://fb.com/suhag.alamin.315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suhag.alamin.315" height="30" width="40" /></a>
-<a href="https://instagram.com/suhag_alamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhag_alamin" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/suhag_alamin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suhag_alamin" height="30" width="40" /></a> -->
+<a href="https://twitter.com/suhag_alamain_me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhag_alamain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suhag-al-amin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhag-al-amin" height="30" width="40" /></a>
+<a href="https://fb.com/suhag.alamin.315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suhag.alamin.315" height="30" width="40" /></a>
+<a href="https://instagram.com/suhag_alamin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhag_alamin" height="30" width="40" /></a>
 
 </p>
 
@@ -73,14 +73,16 @@
 <dl/>
 <dl/>
 <dl/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-suhag&show_icons=true&locale=en&theme=gotham" alt="developer-suhag" /><dl/></p>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-suhag&show_icons=true&locale=en&theme=gotham" alt="developer-suhag" /><dl/></p>
 
 <dl/>
 <dl/>
 <dl/>
 <dl/>
-<p><dl/>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-suhag&show_icons=true&count_private=true&locale=en&theme=gotham" alt="developer-suhag" /></p>
+<br/>
+<p><dl/>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=developer-suhag&show_icons=true&count_private=true&locale=en&theme=gotham" alt="developer-suhag" /></p>
 <dl>
 <dt>
-
-<div style="margin-top:20px" align="center"><dl/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-suhag&theme=gotham" alt="developer-suhag" /></div>
+<br/>
+<div style="margin-top:20px" align="left"><dl/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-suhag&theme=gotham" alt="developer-suhag" /></div>
