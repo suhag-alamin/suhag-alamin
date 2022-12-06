@@ -3,7 +3,7 @@
 
 <!-- banner  -->
 
-![](https://github.com/developer-suhag/developer-suhag/blob/main/banner.png)
+![](https://res.cloudinary.com/dkw1ovah4/image/upload/v1670315347/Suhag_Al_Amin-banner_suoi5m.png)
 
 <!-- profile views  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-suhag&label=Profile%20views&color=0e75b6&style=flat" alt="developer-suhag" /> </p>
