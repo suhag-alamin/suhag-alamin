@@ -11,6 +11,12 @@
 <h4>I'd like to welcome you to my GitHub profile.</h4>
  <p>I am a <b>React Front End Developer</b> and <b>Junior MERN Stack Developer</b> with two years of experience. I have completed 90+ successful projects for both international and domestic clients, including e-commerce and enterprise web applications. My expertise lies in Javascript-based applications, especially React, Next.js, Node.js, and Vanilla JavaScript. I strive to ensure that my clients are happy with my work and that they are 100% satisfied with the finished products.</p>
 
+<dl />
+<dl />
+<br />
+<br />
+<a align="left" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="300" alt="developer-suhag's Dev Card"/></a>
+
 - 🌱 I’m currently learning **Node.js, Express.js TypeScript, MongoDb (database)**
 
 - 👯 I’m looking to collaborate **To collaborate on open source projects.**
@@ -22,12 +28,6 @@
 - 📫 How to reach me **<a href="mailto:suhag.alamin13@gmail.com">suhag.alamin13@gmail.com</a>**
 
 - ⚡ Fun fact about me - **I love bug fixing!**
-
-<dl />
-<dl />
-<br />
-<br />
-<a align="left" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="200" alt="developer-suhag's Dev Card"/></a>
 
 ## Connect with me:
 
