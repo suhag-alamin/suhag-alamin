@@ -23,6 +23,12 @@
 
 - ⚡ Fun fact about me - **I love bug fixing!**
 
+<dl />
+<dl />
+<br />
+<br />
+<a align="left" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="200" alt="developer-suhag's Dev Card"/></a>
+
 ## Connect with me:
 
 <p align="left">
@@ -75,11 +81,6 @@
 <dl/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-suhag&show_icons=true&locale=en&theme=gotham" alt="developer-suhag" /><dl/></p>
-<dl />
-<dl />
-<br />
-<br />
-<a align="left" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="200" alt="developer-suhag's Dev Card"/></a>
 
 <dl/>
 <dl/>
