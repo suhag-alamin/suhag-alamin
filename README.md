@@ -75,6 +75,11 @@
 <dl/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-suhag&show_icons=true&locale=en&theme=gotham" alt="developer-suhag" /><dl/></p>
+<dl />
+<dl />
+<br />
+<br />
+<a align="right" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="400" alt="developer-suhag's Dev Card"/></a>
 
 <dl/>
 <dl/>
