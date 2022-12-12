@@ -79,7 +79,7 @@
 <dl />
 <br />
 <br />
-<a align="right" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="400" alt="developer-suhag's Dev Card"/></a>
+<a align="left" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="200" alt="developer-suhag's Dev Card"/></a>
 
 <dl/>
 <dl/>
