@@ -3,7 +3,7 @@
 
 <!-- banner  -->
 
-![](https://res.cloudinary.com/dkw1ovah4/image/upload/v1670315347/Suhag_Al_Amin-banner_suoi5m.png)
+![](https://res.cloudinary.com/dkw1ovah4/image/upload/v1691394238/banner_msjnuf.png)
 
 <!-- profile views  -->
 
