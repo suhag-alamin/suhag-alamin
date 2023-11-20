@@ -53,8 +53,6 @@ My utmost priority is client satisfaction, and I go above and beyond to ensure t
 
 ![](https://github-profile-trophy.vercel.app/?username=suhag-alamin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
