@@ -13,7 +13,7 @@
 
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
-I am a results-driven Full Stack Developer with over 3.5 years of experience. Throughout my journey, I have successfully delivered more than 120 projects for clients worldwide, ranging from e-commerce platforms to enterprise web applications. My primary focus lies in developing robust and scalable JavaScript-based applications, utilizing technologies such as React, Next.js, Node.js.
+I am a results-driven Full Stack Developer with over 4 years of experience. Throughout my journey, I have successfully delivered more than 150 projects for clients worldwide, ranging from e-commerce platforms to enterprise web applications. My primary focus lies in developing robust and scalable JavaScript-based applications, utilizing technologies such as React, Next.js, Node.js.
 
 My utmost priority is client satisfaction, and I go above and beyond to ensure that my work exceeds their expectations. I believe in open communication, attention to detail, and a strong commitment to delivering high-quality finished products. With a keen eye for both functionality and aesthetics, I strive to create seamless user experiences and visually appealing interfaces.
 
@@ -23,7 +23,7 @@ My utmost priority is client satisfaction, and I go above and beyond to ensure t
 <br />
 <a align="left" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="250" alt="developer-suhag's Dev Card"/></a>
 
-🌱 I’m currently learning **PostgreSQL, Prisma, GrapghQL, AWS, and React Native**
+🌱 I’m currently learning **React Native, and GraphQL**
 
 👯 I’m looking to **collaborate on open-source projects.**
 
