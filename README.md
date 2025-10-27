@@ -23,7 +23,7 @@ My utmost priority is client satisfaction, and I go above and beyond to ensure t
 <br />
 <a align="left" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/developer-suhag/developer-suhag/blob/main/devcard.svg" width="250" alt="developer-suhag's Dev Card"/></a>
 
-🌱 I’m currently learning **React Native, and GraphQL**
+🌱 I’m currently learning **Python and AI\ML**
 
 👯 I’m looking to **collaborate on open-source projects.**
 
